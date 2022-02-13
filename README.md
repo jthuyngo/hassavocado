@@ -22,6 +22,6 @@ Many thanks to the Hass Avocado Board for sharing this data!!
 
 http://www.hassavocadoboard.com/retail/volume-and-price-data
 
-My project will focus on:
- * Price prediction of Avocado Price in whole dataset
- * Price pridiction of Avocado Price based on timeseries to evaluate the expansion likelihood.
+The project will forcus on:
+ * Model selection for Price Pridction of Avocado in whole dataset
+ * Prediction of Avocado Price based on timeseries to evaluate the expansion likelihood.
