@@ -7,20 +7,21 @@ The table below represents weekly 2018 retail scan data for National retail volu
 
 Some relevant columns in the dataset:
 
-Date - The date of the observation
-AveragePrice - the average price of a single avocado
-type - conventional or organic
-year - the year
-Region - the city or region of the observation
-Total Volume - Total number of avocados sold
-4046 - Total number of avocados with PLU 4046 sold
-4225 - Total number of avocados with PLU 4225 sold
-4770 - Total number of avocados with PLU 4770 sold
+ * Date - The date of the observation
+ * AveragePrice - the average price of a single avocado 
+ * type - conventional or organic 
+ * year - the year
+ * Region - the city or region of the observation
+ * Total Volume - Total number of avocados sold 
+ * 4046 - Total number of avocados with PLU
+ * 4046 sold
+ * 4225 - Total number of avocados with PLU 4225 sold
+ * 4770 - Total number of avocados with PLU 4770 sold 
 Acknowledgements
 Many thanks to the Hass Avocado Board for sharing this data!!
 
 http://www.hassavocadoboard.com/retail/volume-and-price-data
 
 My project will focus on:
-- Price prediction of Avocado Price in whole dataset
-- Price pridiction of Avocado Price based on timeseries to evaluate the expansion likelihood.
+ * Price prediction of Avocado Price in whole dataset
+ * Price pridiction of Avocado Price based on timeseries to evaluate the expansion likelihood.
